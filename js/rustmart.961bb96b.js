@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdemo"]=self["webpackChunkdemo"]||[]).push([[665],{3471:function(e,u,r){r.r(u),r.d(u,{default:function(){return c}});var t=r(3396);function n(e,u){const r=(0,t.up)("rustHeader"),n=(0,t.up)("rustPage"),a=(0,t.up)("rustFooter");return(0,t.wg)(),(0,t.iD)("div",null,[(0,t.Wm)(r),(0,t.Wm)(n),(0,t.Wm)(a)])}var a=r(89);const s={},o=(0,a.Z)(s,[["render",n],["__scopeId","data-v-29f7af54"]]);var c=o}}]);
+//# sourceMappingURL=rustmart.961bb96b.js.map

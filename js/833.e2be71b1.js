@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdemo"]=self["webpackChunkdemo"]||[]).push([[833],{4833:function(r,t,u){u.r(t),u.d(t,{default:function(){return s}});var e=u(3396);function n(r,t){const u=(0,e.up)("rustMart"),n=(0,e.up)("rustFooter");return(0,e.wg)(),(0,e.iD)("div",null,[(0,e.Wm)(u),(0,e.Wm)(n)])}var a=u(89);const c={},o=(0,a.Z)(c,[["render",n],["__scopeId","data-v-85a4459c"]]);var s=o}}]);
+//# sourceMappingURL=833.e2be71b1.js.map
